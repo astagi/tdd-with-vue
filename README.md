@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/astagi/tdd-with-vue.svg?branch=master)](https://travis-ci.org/astagi/tdd-with-vue) [![codecov](https://codecov.io/gh/astagi/tdd-with-vue/branch/master/graph/badge.svg)](https://codecov.io/gh/astagi/tdd-with-vue)
 
-This is the source code for [Writing your first Vue component using TDD](Writing your first Vue component using TDD). In this tutorial we'll learn the basic concepts of Test Driven Development (TDD) building a simple, reusable Vue component with Typescript called `ImagePlaceholder` to fetch images from [LoremFlickr](https://loremflickr.com/), a simple images service to get random images specifying parameters like width, height, filters, categories.. inside a url.
+This is the source code for [Writing your first Vue component using TDD](https://dev.to/astagi/writing-a-vue-component-using-tdd-a-gentle-introduction-4n2d). In this tutorial we'll learn the basic concepts of Test Driven Development (TDD) building a simple, reusable Vue component with Typescript called `ImagePlaceholder` to fetch images from [LoremFlickr](https://loremflickr.com/), a simple images service to get random images specifying parameters like width, height, filters, categories.. inside a url.
 
 For example to get an image `320x240` from `Brazil` or `Rio` you can fetch [https://loremflickr.com/320/240/brazil,rio](https://loremflickr.com/320/240/brazil,rio)
 
